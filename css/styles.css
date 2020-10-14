@@ -1,0 +1,14 @@
+body {
+  text-indent: 3rem;
+  background-color: #45ff21;
+}
+h1, h3 {
+  text-align: center;
+}
+.volleyball {
+  color: whitesmoke;
+  background-color: #53110f;
+}
+.aboutMe {
+  font-style: italic;
+}
